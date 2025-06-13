@@ -1,1 +1,2 @@
 # alu-shell
+my readme 
